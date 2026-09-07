@@ -1,6 +1,6 @@
 # Canvas Academic Context
 
-Last synced: 2026-09-06T17:54:22.792766-05:00
+Last synced: 2026-09-07T02:21:25.038130-05:00
 Source: Canvas iCal feed (read-only snapshot)
 Freshness rule: treat this file as stale if `Last synced` is older than the planning task permits.
 
@@ -10,7 +10,8 @@ Freshness rule: treat this file as stale if `Last synced` is older than the plan
 - Due/events in next 30 days: 22
 - Upcoming by course:
   - course 97939: 6
-  - unmapped: 16
+  - course 98346: 1
+  - unmapped: 15
 
 ## Next 30 Days
 
@@ -28,9 +29,9 @@ Freshness rule: treat this file as stale if `Last synced` is older than the plan
 - **course 97939 — D3 - Careers in Computer Science [COSC 150 1W 26-FA1]**
   - Assignment; All day
   - Canvas: https://maryville.instructure.com/courses/97939/files/26277304/preview?hidden=1
-- **Canvas — Week 3 - Cloud Risks - Capital One Case Study [ISYS 481 2W 26-FA1]**
+- **course 98346 — Week 3 - Cloud Risks - Capital One Case Study [ISYS 481 2W 26-FA1]**
   - Assignment; All day
-  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708607
+  - Canvas: https://maryville.instructure.com/courses/98346/files/26295562?wrap=1
 
 ### Sunday, September 20, 2026
 
