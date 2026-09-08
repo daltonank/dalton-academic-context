@@ -1,21 +1,5 @@
 [
   {
-    "uid": "event-calendar-event-166294",
-    "title": "26-SU2 Withdraw Deadline",
-    "event_type": "event",
-    "starts_at": "2026-08-09",
-    "ends_at": null,
-    "all_day": true,
-    "course_id": null,
-    "course": null,
-    "assignment_id": null,
-    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=08&year=2026#calendar_event_166294",
-    "location": "Self Service, https://selfservice.maryville.edu/Student/Planning/DegreePlans",
-    "description": "The deadline to withdraw from classes for the Summer 2026 Second Half Term is midnight CT tonight",
-    "rrule": null,
-    "source": "canvas_ics"
-  },
-  {
     "uid": "event-calendar-event-171598",
     "title": "26-FA Canvas Courses Open",
     "event_type": "event",
