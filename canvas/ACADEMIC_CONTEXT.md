@@ -1,17 +1,17 @@
 # Canvas Academic Context
 
-Last synced: 2026-09-10T18:12:11.334078-05:00
+Last synced: 2026-09-11T02:18:44.694710-05:00
 Source: Canvas iCal feed (read-only snapshot)
 Freshness rule: treat this file as stale if `Last synced` is older than the planning task permits.
 
 ## Workload Summary
 
 - Due/events in next 7 days: 5
-- Due/events in next 30 days: 22
+- Due/events in next 30 days: 27
 - Upcoming by course:
-  - course 97939: 6
+  - course 97939: 7
   - course 98346: 1
-  - unmapped: 15
+  - unmapped: 19
 
 ## Next 30 Days
 
@@ -92,6 +92,24 @@ Freshness rule: treat this file as stale if `Last synced` is older than the plan
 - **Canvas — Week 6 - Cloud Delivery Models [ISYS 481 2W 26-FA1]**
   - Assignment; All day
   - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=10&year=2026#assignment_2708548
+
+### Sunday, October 11, 2026
+
+- **Canvas — D7 - Topics in Computer Science (Part 2) [COSC 150 1W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_97939&month=10&year=2026#assignment_2704017
+- **course 97939 — HW7 [COSC 150 1W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/courses/97939/modules/896253
+- **Canvas — Week 7 - Quality Metrics and Service Level Agreements [ISYS 481 2W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=10&year=2026#assignment_2708546
+- **Canvas — Week 7 - Quiz [ISYS 481 2W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=10&year=2026#assignment_2708631
+- **Canvas — Week 7 - Personal Cloud Reflection Assignment [ISYS 481 2W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=10&year=2026#assignment_2708629
 
 ## Coverage Notes
 
