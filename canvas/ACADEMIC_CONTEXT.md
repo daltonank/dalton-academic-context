@@ -1,37 +1,18 @@
 # Canvas Academic Context
 
-Last synced: 2026-09-12T18:03:58.314889-05:00
+Last synced: 2026-09-13T02:29:23.399792-05:00
 Source: Canvas iCal feed (read-only snapshot)
 Freshness rule: treat this file as stale if `Last synced` is older than the planning task permits.
 
 ## Workload Summary
 
-- Due/events in next 7 days: 5
-- Due/events in next 30 days: 27
+- Due/events in next 7 days: 6
+- Due/events in next 30 days: 22
 - Upcoming by course:
-  - course 97939: 7
-  - course 98346: 1
-  - unmapped: 19
+  - course 97939: 5
+  - unmapped: 17
 
 ## Next 30 Days
-
-### Sunday, September 13, 2026
-
-- **course 97939 — HW3 [COSC 150 1W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/courses/97939/modules/896253
-- **Canvas — Week 3 - Components of Cloud Security [ISYS 481 2W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708555
-- **Canvas — Week 3 - Quiz [ISYS 481 2W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708610
-- **course 97939 — D3 - Careers in Computer Science [COSC 150 1W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/courses/97939/files/26277304/preview?hidden=1
-- **course 98346 — Week 3 - Cloud Risks - Capital One Case Study [ISYS 481 2W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/courses/98346/files/26295562?wrap=1
 
 ### Sunday, September 20, 2026
 
