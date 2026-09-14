@@ -494,7 +494,7 @@
     "assignment_id": null,
     "source_url": "https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708613",
     "location": null,
-    "description": null,
+    "description": "Complete the assigned weekly reading and response to the questions below. Respond to the questions below in a 4-6 page Word document. APA format is required, to include 12 point font ONLY using Times New Roman, and please ensure you see your syllabus for any additional writing requirements from your instructor. Assignments are worth 20 points each and will be graded on content, spelling, and grammar. You must use at least (2) external references to support your original positions outside of the textbook. They are due Sunday by 11:59 pm. Answer the following questions in a substantive manner: * What are some specifics that you need to ensure are called out in Cloud Contracts and Cloud SLA's for a provider to meet * What are some common types of SLA's / SLO's associated with IaaS, PaaS, and SaaS services? (hint, review AWS, Azure, and Google service terms on their websites for examples) * What are some realistic ways to monitor the SLA/SLO's listed in item #2 that you have found? * What are the repercussions in cases where SLA's and SLO's are not met by the provider? * What do you consider when choosing a provider SaaS or PaaS service versus hosting your own software on IaaS tied to meeting your required business SLA/SLO's. * How do your \"Recovery Time Objective [RTO] and Recovery Point Objective (RPO)\" factor into decisions on what services to use, and not to use? Service Terms Examples (feel free to also find your own) * [AWS EC2] (https://aws.amazon.com/ec2/sla/historical/) * [AWS Machine Learning Services] (https://aws.amazon.com/machine-learning/language/sla/) * [Azure Service SLA's] (https://azure.microsoft.com/en-us/support/legal/sla/summary/)",
     "rrule": null,
     "source": "canvas_ics",
     "due_at": "2026-09-20"
@@ -545,7 +545,7 @@
     "assignment_id": null,
     "source_url": "https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708553",
     "location": null,
-    "description": null,
+    "description": "What are some considerations to think of if you are to operate in a single public cloud, multi public cloud, or hybrid (datacenter and cloud), architecture as an enterprise? Is one a better option than another and what business considerations need to be taken into account? Make your first discussion posting by Wednesday, with two substantive responses by Saturday. Additional research outside of the textbook may be necessary to provide responses to some questions. You must make an initial post before you are able to view the posts of your peers. To view the discussion board rubric, click the gear icon in the upper right corner and select \"Show Rubric.\"",
     "rrule": null,
     "source": "canvas_ics",
     "due_at": "2026-09-20"
