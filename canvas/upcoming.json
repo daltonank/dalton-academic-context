@@ -371,5 +371,21 @@
     "rrule": null,
     "source": "canvas_ics",
     "due_at": "2026-10-11"
+  },
+  {
+    "uid": "event-calendar-event-171616",
+    "title": "26-FA2 Canvas Courses Open",
+    "event_type": "event",
+    "starts_at": "2026-10-16",
+    "ends_at": null,
+    "all_day": true,
+    "course_id": null,
+    "course": null,
+    "assignment_id": null,
+    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=10&year=2026#calendar_event_171616",
+    "location": "On Campus and Online",
+    "description": "The Fall 2026 Second Half Semester Canvas courses are available to view. Classes officially begin 2026-10-19",
+    "rrule": null,
+    "source": "canvas_ics"
   }
 ]
