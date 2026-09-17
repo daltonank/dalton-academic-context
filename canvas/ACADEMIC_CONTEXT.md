@@ -1,6 +1,6 @@
 # Canvas Academic Context
 
-Last synced: 2026-09-17T10:33:25.662483-05:00
+Last synced: 2026-09-17T14:44:25.232752-05:00
 Source: Canvas iCal feed (read-only snapshot)
 Freshness rule: treat this file as stale if `Last synced` is older than the planning task permits.
 
