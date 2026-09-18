@@ -1,16 +1,16 @@
 # Canvas Academic Context
 
-Last synced: 2026-09-17T18:33:47.664292-05:00
+Last synced: 2026-09-18T02:25:48.871521-05:00
 Source: Canvas iCal feed (read-only snapshot)
 Freshness rule: treat this file as stale if `Last synced` is older than the planning task permits.
 
 ## Workload Summary
 
 - Due/events in next 7 days: 6
-- Due/events in next 30 days: 23
+- Due/events in next 30 days: 30
 - Upcoming by course:
-  - course 97939: 5
-  - unmapped: 18
+  - course 97939: 7
+  - unmapped: 23
 
 ## Next 30 Days
 
@@ -97,6 +97,30 @@ Freshness rule: treat this file as stale if `Last synced` is older than the plan
 - **Canvas — 26-FA2 Canvas Courses Open**
   - Event; All day
   - Canvas: https://maryville.instructure.com/calendar?include_contexts=account_1&month=10&year=2026#calendar_event_171616
+
+### Sunday, October 18, 2026
+
+- **Canvas — 26-FA1 End of Classes**
+  - Event; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=account_1&month=10&year=2026#calendar_event_171606
+- **course 97939 — D8 - The Java Ecosystem [COSC 150 1W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/courses/97939/files/26277283/preview?hidden=1
+- **course 97939 — HW8 [COSC 150 1W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/courses/97939/modules/896253
+- **Canvas — Java Final Exam [COSC 150 1W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_97939&month=10&year=2026#assignment_2704013
+- **Canvas — Reporting / Advanced Analytics Quiz [ISYS 481 2W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=10&year=2026#assignment_2708540
+- **Canvas — Week 8 - Final Exam [ISYS 481 2W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=10&year=2026#assignment_2708634
+- **Canvas — Week 8 - Cloud Computing and Virtualization [ISYS 481 2W 26-FA1]**
+  - Assignment; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=10&year=2026#assignment_2708543
 
 ## Coverage Notes
 
