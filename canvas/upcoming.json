@@ -505,5 +505,21 @@
     "rrule": null,
     "source": "canvas_ics",
     "due_at": "2026-10-18"
+  },
+  {
+    "uid": "event-calendar-event-171614",
+    "title": "26-FA2 Start of Classes",
+    "event_type": "event",
+    "starts_at": "2026-10-19",
+    "ends_at": null,
+    "all_day": true,
+    "course_id": null,
+    "course": null,
+    "assignment_id": null,
+    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=10&year=2026#calendar_event_171614",
+    "location": "On Campus and Online",
+    "description": "The Fall 2026 Second Half Semester officially begins today.",
+    "rrule": null,
+    "source": "canvas_ics"
   }
 ]

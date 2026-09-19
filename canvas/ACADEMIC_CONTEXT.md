@@ -1,16 +1,16 @@
 # Canvas Academic Context
 
-Last synced: 2026-09-18T18:19:34.961688-05:00
+Last synced: 2026-09-19T02:21:59.336504-05:00
 Source: Canvas iCal feed (read-only snapshot)
 Freshness rule: treat this file as stale if `Last synced` is older than the planning task permits.
 
 ## Workload Summary
 
 - Due/events in next 7 days: 6
-- Due/events in next 30 days: 30
+- Due/events in next 30 days: 31
 - Upcoming by course:
   - course 97939: 7
-  - unmapped: 23
+  - unmapped: 24
 
 ## Next 30 Days
 
@@ -121,6 +121,12 @@ Freshness rule: treat this file as stale if `Last synced` is older than the plan
 - **Canvas — Week 8 - Cloud Computing and Virtualization [ISYS 481 2W 26-FA1]**
   - Assignment; All day
   - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=10&year=2026#assignment_2708543
+
+### Monday, October 19, 2026
+
+- **Canvas — 26-FA2 Start of Classes**
+  - Event; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=account_1&month=10&year=2026#calendar_event_171614
 
 ## Coverage Notes
 
