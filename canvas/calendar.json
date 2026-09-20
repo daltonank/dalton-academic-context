@@ -1,37 +1,5 @@
 [
   {
-    "uid": "event-calendar-event-171598",
-    "title": "26-FA Canvas Courses Open",
-    "event_type": "event",
-    "starts_at": "2026-08-21",
-    "ends_at": null,
-    "all_day": true,
-    "course_id": null,
-    "course": null,
-    "assignment_id": null,
-    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=08&year=2026#calendar_event_171598",
-    "location": "On Campus and Online",
-    "description": "The Fall 2026 Semester Canvas courses are available to view. Classes officially begin 2026-08-24",
-    "rrule": null,
-    "source": "canvas_ics"
-  },
-  {
-    "uid": "event-calendar-event-171607",
-    "title": "26-FA1 Canvas Courses Open",
-    "event_type": "event",
-    "starts_at": "2026-08-21",
-    "ends_at": null,
-    "all_day": true,
-    "course_id": null,
-    "course": null,
-    "assignment_id": null,
-    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=08&year=2026#calendar_event_171607",
-    "location": "On Campus and Online",
-    "description": "The Fall 2026 First Half Semester Canvas courses are available to view. Classes officially begin 2026-08-24",
-    "rrule": null,
-    "source": "canvas_ics"
-  },
-  {
     "uid": "event-calendar-event-166278",
     "title": "26-SU End of Classes",
     "event_type": "event",

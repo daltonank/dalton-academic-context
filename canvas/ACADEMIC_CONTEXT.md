@@ -1,39 +1,18 @@
 # Canvas Academic Context
 
-Last synced: 2026-09-19T18:08:59.674938-05:00
+Last synced: 2026-09-20T02:45:28.998012-05:00
 Source: Canvas iCal feed (read-only snapshot)
 Freshness rule: treat this file as stale if `Last synced` is older than the planning task permits.
 
 ## Workload Summary
 
-- Due/events in next 7 days: 6
-- Due/events in next 30 days: 31
+- Due/events in next 7 days: 5
+- Due/events in next 30 days: 25
 - Upcoming by course:
-  - course 97939: 7
-  - unmapped: 24
+  - course 97939: 5
+  - unmapped: 20
 
 ## Next 30 Days
-
-### Sunday, September 20, 2026
-
-- **course 97939 — D4 - Crash Course: Computer Science [COSC 150 1W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/courses/97939/files/26277309/preview?hidden=1
-- **course 97939 — HW4 [COSC 150 1W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/courses/97939/modules/896253
-- **Canvas — Week 4 - Cloud Service Level Agreements and Contracts [ISYS 481 2W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708613
-- **Canvas — Week 4 - Quiz [ISYS 481 2W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708616
-- **Canvas — Java Midterm Exam [COSC 150 1W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_97939&month=09&year=2026#assignment_2704015
-- **Canvas — Week 4 - Cloud Management Mechanisms [ISYS 481 2W 26-FA1]**
-  - Assignment; All day
-  - Canvas: https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708553
 
 ### Sunday, September 27, 2026
 
