@@ -564,7 +564,7 @@
     "assignment_id": null,
     "source_url": "https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708550",
     "location": null,
-    "description": null,
+    "description": "From the perspective of a large bank, what are vital considerations for application security and infrastructure security for a cloud application? Use your book, and external references to discuss different technical, process, and people-based concerns that have to be managed to ensure security in the cloud. Make your first discussion posting by Wednesday, with two substantive responses by Saturday. Additional research outside of the textbook may be necessary to provide responses to some questions. You must make an initial post before you are able to view the posts of your peers. To view the discussion board rubric, click the gear icon in the upper right corner and select \"Show Rubric.\"",
     "rrule": null,
     "source": "canvas_ics",
     "due_at": "2026-09-27"
@@ -598,7 +598,7 @@
     "assignment_id": null,
     "source_url": "https://maryville.instructure.com/calendar?include_contexts=course_98346&month=09&year=2026#assignment_2708618",
     "location": null,
-    "description": null,
+    "description": "Based on this week's reading on a specific subset of the Cloud Security Alliance, Critical Areas of Focus in Cloud Computing V4 (pages noted below) respond to the questions below in a 3-5 page Word document. APA format is required, to include 12 point font ONLY using Times New Roman, and please ensure you see your syllabus for any additional writing requirements from your instructor. Assignments are worth 20 points each and will be graded on content, spelling, and grammar. You must use at least (2) external references to support your original positions outside of the textbook. They are due Sunday by 11:59 pm. Answer the following questions in a substantive manner: * Why does cloud computing auditing have to be a continuous exercise, not point in time by nature based on the recommendations made on page (59) in your own words with an example or two? * On page (72-73) there are specific requirements around management plane security. How does this differ from on-premise systems and what do you think makes this riskier or less risk than a company's on-premise data center? * Page (108-110) talks through four different challenges. Walkthrough each of them with your own perspective, and examples, of these risks and how you could put controls in place to minimize their risks (people, process, or technology)? * In your own words with references to back up your original thoughts, what are the substantial risks that must be accounted for tied to people, process, and technology when moving into a cloud-based business model?",
     "rrule": null,
     "source": "canvas_ics",
     "due_at": "2026-09-27"
