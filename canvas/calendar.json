@@ -1,37 +1,5 @@
 [
   {
-    "uid": "event-calendar-event-166278",
-    "title": "26-SU End of Classes",
-    "event_type": "event",
-    "starts_at": "2026-08-23",
-    "ends_at": null,
-    "all_day": true,
-    "course_id": null,
-    "course": null,
-    "assignment_id": null,
-    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=08&year=2026#calendar_event_166278",
-    "location": "On Campus and Online",
-    "description": "The Summer 2026 Semester officially ends today. Students will have access to their Canvas courses until 2026-09-02",
-    "rrule": null,
-    "source": "canvas_ics"
-  },
-  {
-    "uid": "event-calendar-event-166290",
-    "title": "26-SU2 End of Classes",
-    "event_type": "event",
-    "starts_at": "2026-08-23",
-    "ends_at": null,
-    "all_day": true,
-    "course_id": null,
-    "course": null,
-    "assignment_id": null,
-    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=08&year=2026#calendar_event_166290",
-    "location": "On Campus and Online",
-    "description": "The Summer 2026 Second Half Term officially ends today. Students will have access to their Canvas courses until 2026-09-02",
-    "rrule": null,
-    "source": "canvas_ics"
-  },
-  {
     "uid": "event-calendar-event-171596",
     "title": "26-FA Start of Classes",
     "event_type": "event",
