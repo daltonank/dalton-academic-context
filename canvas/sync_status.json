@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "source": "canvas_ics",
-  "last_synced": "2026-09-22T18:36:30.028030-05:00",
+  "last_synced": "2026-09-23T02:47:17.467776-05:00",
   "timezone": "America/Chicago",
-  "record_count": 96,
-  "upcoming_record_count": 25,
+  "record_count": 94,
+  "upcoming_record_count": 26,
   "coverage": {
     "past_days": 30,
     "future_days": 366,

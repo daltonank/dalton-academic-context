@@ -1,16 +1,16 @@
 # Canvas Academic Context
 
-Last synced: 2026-09-22T18:36:30.028030-05:00
+Last synced: 2026-09-23T02:47:17.467776-05:00
 Source: Canvas iCal feed (read-only snapshot)
 Freshness rule: treat this file as stale if `Last synced` is older than the planning task permits.
 
 ## Workload Summary
 
 - Due/events in next 7 days: 5
-- Due/events in next 30 days: 25
+- Due/events in next 30 days: 26
 - Upcoming by course:
   - course 97939: 5
-  - unmapped: 20
+  - unmapped: 21
 
 ## Next 30 Days
 
@@ -106,6 +106,12 @@ Freshness rule: treat this file as stale if `Last synced` is older than the plan
 - **Canvas — 26-FA2 Start of Classes**
   - Event; All day
   - Canvas: https://maryville.instructure.com/calendar?include_contexts=account_1&month=10&year=2026#calendar_event_171614
+
+### Friday, October 23, 2026
+
+- **Canvas — 26-FA2 Add Deadline**
+  - Event; All day
+  - Canvas: https://maryville.instructure.com/calendar?include_contexts=account_1&month=10&year=2026#calendar_event_171617
 
 ## Coverage Notes
 

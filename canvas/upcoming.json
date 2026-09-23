@@ -419,5 +419,21 @@
     "description": "The Fall 2026 Second Half Semester officially begins today.",
     "rrule": null,
     "source": "canvas_ics"
+  },
+  {
+    "uid": "event-calendar-event-171617",
+    "title": "26-FA2 Add Deadline",
+    "event_type": "event",
+    "starts_at": "2026-10-23",
+    "ends_at": null,
+    "all_day": true,
+    "course_id": null,
+    "course": null,
+    "assignment_id": null,
+    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=10&year=2026#calendar_event_171617",
+    "location": "On Campus and Online",
+    "description": "The deadline to add classes for the Fall 2026 Second Half Semester is midnight CT tonight",
+    "rrule": null,
+    "source": "canvas_ics"
   }
 ]

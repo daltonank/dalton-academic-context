@@ -1,37 +1,5 @@
 [
   {
-    "uid": "event-calendar-event-171596",
-    "title": "26-FA Start of Classes",
-    "event_type": "event",
-    "starts_at": "2026-08-24",
-    "ends_at": null,
-    "all_day": true,
-    "course_id": null,
-    "course": null,
-    "assignment_id": null,
-    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=08&year=2026#calendar_event_171596",
-    "location": "On Campus and Online",
-    "description": "The Fall 2026 Semester officially begins today.",
-    "rrule": null,
-    "source": "canvas_ics"
-  },
-  {
-    "uid": "event-calendar-event-171605",
-    "title": "26-FA1 Start of Classes",
-    "event_type": "event",
-    "starts_at": "2026-08-24",
-    "ends_at": null,
-    "all_day": true,
-    "course_id": null,
-    "course": null,
-    "assignment_id": null,
-    "source_url": "https://maryville.instructure.com/calendar?include_contexts=account_1&month=08&year=2026#calendar_event_171605",
-    "location": "On Campus and Online",
-    "description": "The Fall 2026 First Half Semester officially begins today.",
-    "rrule": null,
-    "source": "canvas_ics"
-  },
-  {
     "uid": "event-calendar-event-171599",
     "title": "26-FA Add Deadline",
     "event_type": "event",
